@@ -18,7 +18,7 @@
 
 ## Contacts
 - Telegram:<a href="https://t.me/arishkagavrilova"> @arishkagavrilova </a>
-- email: a.gavrilova125@gmail.com <br>
+- email: arinagvri@gmail.com <br>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
